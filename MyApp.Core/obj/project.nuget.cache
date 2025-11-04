@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fD4w/mTMieI=",
+  "dgSpecHash": "hZCG0aUR40A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\MyApp.Core\\MyApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Core\\MyApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.10\\microsoft.extensions.dependencyinjection.abstractions.9.0.10.nupkg.sha512"
   ],

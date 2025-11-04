@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\MyApp.Application\\MyApp.Application.csproj": {
+    "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Application\\MyApp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\MyApp.Application\\MyApp.Application.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Application\\MyApp.Application.csproj",
         "projectName": "MyApp.Application",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\MyApp.Application\\MyApp.Application.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Application\\MyApp.Application.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\MyApp.Application\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Desktop\\MyApp.Core\\MyApp.Core.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\MyApp.Core\\MyApp.Core.csproj"
+              "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Core\\MyApp.Core.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Core\\MyApp.Core.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\MyApp.Core\\MyApp.Core.csproj": {
+    "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Core\\MyApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\MyApp.Core\\MyApp.Core.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Core\\MyApp.Core.csproj",
         "projectName": "MyApp.Core",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\MyApp.Core\\MyApp.Core.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Core\\MyApp.Core.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\MyApp.Core\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -154,14 +154,14 @@
         }
       }
     },
-    "C:\\Users\\DELL\\Desktop\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj": {
+    "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
         "projectName": "MyApp.Infrastructure",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\MyApp.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -182,8 +182,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\Desktop\\MyApp.Application\\MyApp.Application.csproj": {
-                "projectPath": "C:\\Users\\DELL\\Desktop\\MyApp.Application\\MyApp.Application.csproj"
+              "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Application\\MyApp.Application.csproj": {
+                "projectPath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Application\\MyApp.Application.csproj"
               }
             }
           }

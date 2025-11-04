@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v8+wvZpTgsA=",
+  "dgSpecHash": "m5V2IgKmIIM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\MyApp.Api\\MyApp.Api.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Api\\MyApp.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

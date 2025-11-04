@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dlJ4Oggo3GI=",
+  "dgSpecHash": "9epkRfO7CqA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Desktop\\MyApp.Application\\MyApp.Application.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Desktop\\CleanArchitectureProject\\MyApp.Application\\MyApp.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\mediatr\\13.1.0\\mediatr.13.1.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

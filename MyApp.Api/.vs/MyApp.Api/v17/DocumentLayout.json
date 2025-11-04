@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\MyApp.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{283EA100-9D0A-44FA-9AF0-E094BACAABD6}|MyApp.Api.csproj|c:\\users\\dell\\desktop\\myapp.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{283EA100-9D0A-44FA-9AF0-E094BACAABD6}|MyApp.Api.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{516F4C51-3537-4708-A5FB-FE2F57AAD5CF}|..\\MyApp.Application\\MyApp.Application.csproj|c:\\users\\dell\\desktop\\myapp.application\\quiries\\getemployeebyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E8924B-E1E7-4546-93D4-9D7640EF546E}|..\\MyApp.Infrastructure\\MyApp.Infrastructure.csproj|c:\\users\\dell\\desktop\\myapp.infrastructure\\reposotiries\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MyApp.Infrastructure\\Reposotiries\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Infrastructure\\Reposotiries\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MyApp.Infrastructure\\Reposotiries\\EmployeeRepository.cs",
+              "RelativeToolTip": "..\\MyApp.Infrastructure\\Reposotiries\\EmployeeRepository.cs",
+              "ViewState": "AgIAABwAAADAlJmZmZkpwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:47:56.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetEmployeeById.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MyApp.Application\\Quiries\\GetEmployeeById.cs",
+              "RelativeDocumentMoniker": "..\\MyApp.Application\\Quiries\\GetEmployeeById.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MyApp.Application\\Quiries\\GetEmployeeById.cs",
+              "RelativeToolTip": "..\\MyApp.Application\\Quiries\\GetEmployeeById.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:44:23.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\MyApp.Api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\MyApp.Api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:14:00.813Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
